@@ -85,8 +85,8 @@
 
 | 팀원   | 업무 내용                                                    |
 | ------ | ------------------------------------------------------------ |
-| 장종훈 | Front-end : 메인, 추천, 검색 페이지 구현, CSS 및 Bootstrap   |
-| 배건길 | Front-end : 디테일 페이지 구현(리뷰, 댓글, 평점), CSS 및 Bootstrap |
+| 팀원1 | Front-end : 메인, 추천, 검색 페이지 구현, CSS 및 Bootstrap   |
+| 팀원2 | Front-end : 디테일 페이지 구현(리뷰, 댓글, 평점), CSS 및 Bootstrap |
 | 조유진 | Back-end : Django 모델링, 데이터 수집(TMDB API), 추천 알고리즘 |
 
 
